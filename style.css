@@ -1,0 +1,84 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-color{
+    background-color: #f4f8fb;
+}
+
+.menu-items{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+}
+
+.left-menu{
+    align-self: center;
+}
+.container{
+    padding: 0 150px;
+}
+
+.btn-secondary{
+    padding: 10px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius:4px;
+    text-decoration: none; 
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn-secondary:hover{
+    background-color: #e1e7eee8;
+} 
+.btn-primary{
+    text-decoration: none;
+    height: 35px;
+    float: right;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    background-color: #425089;
+    border: 1px solid #425089;
+    border-radius: 3px;
+}  
+.logo{
+    height: 50px;
+}
+.btn2{
+    color: white;
+    background-color: rgb(66, 80, 137);
+    border-color: rgb(66, 80, 137);
+}
+p{
+    margin-left:40%;
+
+}
+
+.mr-5{
+    margin-right: 5px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mr-25{
+    margin-right: 25px;
+}
+.no-text-decoration{
+    text-decoration: none;
+}
+.float-right{
+    float: right;
+}
+.color-green{
+    color: #1ebea5;
+}
+.color-black{
+    color: black;
+}
+.color-dark{
+    color: darkgray;
+}
