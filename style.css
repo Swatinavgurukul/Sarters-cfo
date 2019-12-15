@@ -191,3 +191,64 @@ span{
 .ml-5{
     margin-left: 5%;
 }
+.featured-video-width{
+    width: 600px;
+}
+
+.mb-25{
+    margin-bottom: 25px ;
+}
+.you2b{
+    margin-left: 40%;
+    /* justify-content: center; */
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+.Youtube-2-Btn{
+    margin-right: 20%;
+    border: 1px solid #E02E2F;
+    color: #E02E2F;
+    cursor: pointer;
+    height: 50px;
+    width: 250px;
+    border-radius: 3px;
+    background-color: white;
+    font-size: 15px;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1.5;
+    box-sizing: border-box; 
+}
+
+/* --------------------------------------- */
+.footer-background{
+    background-color: #2d3e50;
+    width: 100%;
+}
+.footer1{
+    display:flex;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.col{
+
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.color-white{
+    color: white;
+}
+h6{
+    font-size: 1rem;
+}
+ul{
+    text-decoration: none;
+}
+
+
